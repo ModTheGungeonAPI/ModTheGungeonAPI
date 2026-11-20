@@ -10,20 +10,13 @@ Mod the Gungeon API includes:
  * A mods menu that shows all enabled plugins (F1)
 
 # Useful Links
- * [Installation](https://github.com/SpecialAPI/ModTheGungeonAPI/wiki/BepInEx-and-Mod-the-Gungeon-API-installation-guide)
- * [Porting your mod to BepInEx](https://github.com/SpecialAPI/ModTheGungeonAPI/wiki/Updating-your-Gungeon-mod-to-BepInEx)
- * [Converting .json files to .jtk2d files](https://github.com/SpecialAPI/ModTheGungeonAPI/wiki/Converting-.json-files-to-.jtk2d-files)
+ * [Installation](https://github.com/ModTheGungeonAPI/ModTheGungeonAPI/wiki/BepInEx-and-Mod-the-Gungeon-API-installation-guide)
+ * [Porting your mod to BepInEx](https://github.com/ModTheGungeonAPI/ModTheGungeonAPI/wiki/Updating-your-Gungeon-mod-to-BepInEx)
+ * [Converting .json files to .jtk2d files](https://github.com/ModTheGungeonAPI/ModTheGungeonAPI/wiki/Converting-.json-files-to-.jtk2d-files)
  * BepInEx Example Mod (Plain)
-    * [Download Zip](https://github.com/SpecialAPI/BepInExExampleMod/archive/refs/heads/main.zip)  
-    * [GitHub Repository](https://github.com/SpecialAPI/BepInExExampleMod)
+    * [Download Zip](https://github.com/ModTheGungeonAPI/BepInExExampleMod/archive/refs/heads/main.zip)  
+    * [GitHub Repository](https://github.com/ModTheGungeonAPI/BepInExExampleMod)
  * BepInEx Example Mod (Items)
-    * [Download Zip](https://github.com/SpecialAPI/BepInExExampleModItems/archive/refs/heads/main.zip)  
-    * [GitHub Repository](https://github.com/SpecialAPI/BepInExExampleModItems)
-* [Publicized and Stripped Assembly-CSharp.dll](https://github.com/SpecialAPI/ModTheGungeonAPI/raw/main/Dependencies/Assembly-CSharp.dll)
-
-# Credits:
- * SpecialAPI - main developer.
- * Captain Pretzel - optimizing the API to make mods load faster.
- * An3s - initial console + debug log port.
- * KubeRoot - updating SGUI to the latest version.
- * KyleTheScientist - base MTG example mod zips.
+    * [Download Zip](https://github.com/ModTheGungeonAPI/BepInExExampleModItems/archive/refs/heads/main.zip)  
+    * [GitHub Repository](https://github.com/ModTheGungeonAPI/BepInExExampleModItems)
+* [Publicized and Stripped Assembly-CSharp.dll](https://github.com/ModTheGungeonAPI/ModTheGungeonAPI/raw/main/Dependencies/Assembly-CSharp.dll)
